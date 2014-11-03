@@ -55,4 +55,4 @@ Performance
 	</tr> 
 </table>
 
-In the above table, we show the performance of CGI-Threes in the Taiwan 2048-Bot Tournament.
+The above table shows the performance of CGI-Threes in the Taiwan 2048-Bot Tournament.
